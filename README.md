@@ -1,4 +1,4 @@
-# Aerofit---Customer-profiling-and-Analysis
+# Aerofit--Customer-profiling-and-Analysis
  Aerofit - Descriptive Statistics &amp; Probability
 
 ![images](https://github.com/user-attachments/assets/20dccbce-3a0e-4c2d-8ce3-b041e1e78d4f)
